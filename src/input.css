@@ -6,4 +6,7 @@
     .section-min-height {
         min-height: calc(100vh - 68px);
     }
+    .section-min-width {
+        min-width: 100%;
+    }
 }
